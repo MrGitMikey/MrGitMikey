@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrGitMikey
 - 👀 I’m interested in codding and Ethical Hacking ( Cyber Security Offensive )
-- 🌱 I’m currently learning C.E.H
-- 💞️ I’m looking to collaborate on some codding languages like c and c++ 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on some codding languages like c and java
 - I'm studying in school !
 
 <!---
